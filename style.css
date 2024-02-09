@@ -501,6 +501,7 @@ nav .fa-solid
     .sub-title
     {
         font-size: 40px;
+        padding: 2mm;
 
     }
     .about-col-1, .about-col-2
@@ -519,11 +520,13 @@ nav .fa-solid
     .about-col-2
     {
         font-size: 14px;
+        width: 100%;
     }
     .tab-links
     {
         font-size: 16px;
         margin-right: 20px;
+        width: 10%;
     }
     .contact-left, .contact-right
     {
